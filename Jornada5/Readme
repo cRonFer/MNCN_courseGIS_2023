@@ -1,0 +1,7 @@
+Jornada 5: Procedimientos básicos para el tratamiento, limpieza y validación geográfica de datos de biodiversidad
+
+14 de febrero de 2023
+
+* Para el correcto desarrollo de las prácticas se necesita instalar los paquetes de R 'tidyverse', 'sp', 'biogeo' and 'coordinatecleaner'
+
+** Los archivos disponibles tienen como separador de campos ';', encoding 'UTF-8', y el separador decimal es '.'
