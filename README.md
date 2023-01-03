@@ -63,3 +63,5 @@ Se realizarán dos prácticas con las que poder establecer las diferencias de tr
 Práctica 1. Análisis de los errores geográficos más comunes en un conjunto de datos pequeño obtenido en campo.
 
 Práctica 2. Evaluación de un conjunto grande de datos geográficos a nivel global obtenido de un repositorio público.
+
+Práctica 3: Filtros por características de hábitat.
